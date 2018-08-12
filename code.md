@@ -58,7 +58,7 @@ class LocalNotificationHelper {
 We use [completion handlers](https://grokswift.com/completion-handler-faqs/) to update the status of our request and, in the case of a `requestAuthorization(_:)`, to test the success
 or failure of our request.
 
-Learn more at [Lambda School](https://lambdaschool.com) and [Apple](https://developer.apple.com/videos/play/wwdc2016/707/)
+Learn more [here](https://developer.apple.com/videos/play/wwdc2016/707/)
 
 # OPEN SOURCE
 
