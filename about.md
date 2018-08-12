@@ -18,3 +18,5 @@ potatoes these new students can eat, before peripheral circulatory collapse sets
 in with the solanine and kills them.
 
 Happy reading 👨‍🚀
+
+[Back](https://www.lambda.house)
