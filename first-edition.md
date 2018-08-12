@@ -1,6 +1,6 @@
 
-Lambda House Weekly
-<br>
+# Lambda House Weekly
+
 The Risible Rhetoric of the iOS I Intelligentsia
 
 ---
@@ -51,6 +51,7 @@ A shiny new housemate arrived Saturday morning: professional, ex-military, easy 
 
 A proper mental health professional is expensive. And maybe not necessary. But I imagine there are people who would like to talk to someone without feeling like they’re being handled and put back on the horse by an instructor or project manager.
 
+___
 
 **Special Thanks**
 
