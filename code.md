@@ -1,9 +1,66 @@
-#IOS
+# IOS
 
+LOCAL NOTIFICATIONS
+
+#### David Doswell
+
+Notifications are Apple's interface for alerting users of some event, whether
+your app is running in the background, the foreground, or is simply inactive.
+
+The content to the user is relevant and thus requires some handling on the part
+of the developer. It is important that content is never lost because of a bad
+network connection or inactivity.
+
+There are two types of user interface notifications in UIKit: Local Notifications
+and Push Notifications.
+
+Local Notifications are programmatic interfaces called from directly within the app.
+Push Notifications are notifications that are _pushed_ to a device from a remote
+server.
+
+In either event, it is required of the developer to ask permission before sending
+notifications to their users. Best practices also include not inundating users with
+notifications or (typically but not always) sending notifications immediately upon
+app install.
+
+Here's an interface for getting the authorization status of a new user and for
+requesting authorization to send an array of interactions to engage a new user:
+
+```
+import Foundation
+import UserNotifications
+
+class LocalNotificationHelper {
+
+    func getAuthorizationStatus(completion: @escaping (UNAuthorizationStatus) -> Void) {
+        UNUserNotificationCenter.current().getNotificationSettings { (settings) in
+
+            DispatchQueue.main.async {
+                completion(settings.authorizationStatus)
+            }
+        }
+    }
+
+    func requestAuthorization(completion: @escaping (Bool) -> Void) {
+        UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) { (success, error) in
+
+            if let error = error {
+                NSLog("Error requesting authorization status for local notifications: \(error)") }
+
+            DispatchQueue.main.async {
+                completion(success)
+            }
+        }
+    }
+
+```    
+
+We use [completion handlers(https://grokswift.com/completion-handler-faqs/) to update the status of our request and, in the case of a `requestAuthorization(_:)`, to test the success
+or failure of our request.
 
 # OPEN SOURCE
 
-INTRODUCING wb_alloc
+INTRODUCING `wb_alloc`
 
 #### William Bundy
 
@@ -212,8 +269,7 @@ it helps use all your memory, but if you do, eventually things just go bad,
 potentially without warning. (that may not be strictly true but I've
 never tested and I'm not as confident about the unix backend stuff)
 
-See this blog post for more info on Windows' memory limits:
-https://blogs.technet.microsoft.com/markrussinovich/2008/11/17/pushing-the-limits-of-windows-virtual-memory/
+See [this blog post](https://blogs.technet.microsoft.com/markrussinovich/2008/11/17/pushing-the-limits-of-windows-virtual-memory/) for more info on Windows' memory limits:
 
 ---
 
