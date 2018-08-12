@@ -125,7 +125,7 @@ What stuff do you like? Link this article and share your favorite stuff with us 
 
 # A COMPUTER SCIENCE THEORY OF ETERNITY
 
-## Side Thoughts on Using C.S. to Model Humans as Beings Distinct from Bodies
+## _Side Thoughts on Using C.S. to Model Humans as Beings Distinct from Bodies_
 
 #### David Oliver Doswell
 
