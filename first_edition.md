@@ -1,6 +1,6 @@
 
 Lambda House Weekly
-#### Et discipulus novit dolor.
+#### et discipulus novit dolor.
 
 ---
 
