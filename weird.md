@@ -119,8 +119,7 @@ The Sovereign Individual (James Dale Davidson & Lord William Rees-Mogg)
 
 Hi 👋
 
-What stuff do you like? Link [this article](https://www.lambda.house/weird)
-and share your favorite stuff with us on Twitter [@lambdadothouse](https://twitter.com/lambdadothouse)
+What stuff do you like? Link this article and share your favorite stuff with us on Twitter [@lambdadothouse](https://twitter.com/lambdadothouse)
 
 # A COMPUTER SCIENCE THEORY OF ETERNITY
 
