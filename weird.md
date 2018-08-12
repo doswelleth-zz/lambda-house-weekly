@@ -117,7 +117,8 @@ Armagnac (Gascony, France)
 <br>
 The Sovereign Individual (James Dale Davidson & Lord William Rees-Mogg)
 
-–––
+---
+
 Hi 👋
 
 What stuff do you like? Link this article and share your favorite stuff with us on Twitter [@lambdadothouse](https://twitter.com/lambdadothouse)
@@ -149,7 +150,7 @@ What stuff do you like? Link this article and share your favorite stuff with us 
 
 #### Primitives
 
-- Code that outputs biological life to “Beings”
+- Function that outputs biological life to “Beings”
 
 - Redefine death as a “Transition Display Module”
 
