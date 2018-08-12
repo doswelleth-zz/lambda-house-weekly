@@ -17,11 +17,11 @@ I initially found the response vanquishing and militant, as if I were applying t
 
 His response both angered and accelerated me to persist the next day. I replied, “I can and I will,” with the gusto of a young cadet who doesn’t stop to think that his flag is made out of the same material as the enemy’s. My reply to Joe was at best ambitious.
 
-This is the third week at Lambda School and I could peel the skin from my flesh and feel nothing. I am not certain what is particularly difficult. Maybe it's just me. But I know the routine. Students often use the word “rigorous” to distinguish what they relay to people from the pain they are feeling inside. It is disingenuous and broke. And it works. Until you stop asking. Then it's honest and hard, again. I uncertain what it is (see: **Feature Requests**).
+This is the third week at Lambda School and we could slowly peel the skin from our faces and feel nothing. Maybe it's me but I am uncertain as to what has been particularly difficult this week. It's always bunker mud and stinky boots. However feeling like you can't cut it is soul-crushing and requires more than a mental model for success (see: **Feature Requests**).
 
-The week was especially trying and we haven’t scaled a month with 6 more to go. But it’s Friday. I have a half bottle of Côtes du Rhône and an I don’t care attitude. I am very interested in a walk and talk with a beautiful woman. Maybe visit the bodega on Mission. Or an acupuncturist. Or an exorcist.
+And we haven’t scaled a month with 6 more to go. But it’s Friday. I personally have a half bottle of Côtes du Rhône and what a parent might describe as an I don’t care attitude. I am rather interested in a walk and talk with a beautiful woman. Maybe visit the bodega on Mission. Or an acupuncturist. Or an exorcist.
 
-Thoughts and prayers to my housemates, most of whom are working on their Sprint Challenge post-submission time. Dinner should be replete with various odors from all the diets with a dash of vitriol about the origins of pedagogy.     
+Thoughts and prayers to my housemates, most of whom are still working on their Sprint 3 Challenge post-submission time. Dinner should be replete with various odors from all the diets with a dash of vitriol about the origins of pedagogy.     
 
 #### EDITORIAL
 
