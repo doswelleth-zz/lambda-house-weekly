@@ -2,7 +2,7 @@
 
 #### "You really don't... have a good coding ability." ––OH
 
-[THE STORIES](https://www.lambda.house/stories) | [THE CODE](https://www.lambda.house/code) | [THE JOB BOARD](https://www.lambda.house/coming-soon) | [THE WEIRD](https://www.lambda.house/coming-soon) |
+[THE STORIES](https://www.lambda.house/stories) | [THE CODE](https://www.lambda.house/code) | [THE JOB BOARD](https://www.lambda.house/coming-soon) | [THE WEIRD](https://www.lambda.house/weird) |
 
 Hello, San Francisco 👋
 
