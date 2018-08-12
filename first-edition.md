@@ -41,7 +41,7 @@ Shout out to the guy sleeping 5 yards from my gated residence to whose couch pil
 
 **School Psychologist** PMs are not motivators or comforters (though ours, Jacob M., is the next best thing to a young doctor with an exquisite bedside manner). A proper mental health professional is expensive. And maybe not necessary. But I imagine there are people who would like to talk to someone without feeling like they’re being handled and put back on the horse by an instructor or project manager.
 
-
+–––
 
 Special Thanks
 
