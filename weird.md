@@ -1,20 +1,20 @@
 ##### August 12, 2018
 
-#GENERAL (ANONYMOUS)
+# GENERAL (ANONYMOUS)
 
-I had a dream I was eating a meatless meat burger in the Wendy's parking lot. I
+I had a 💨 dream I was eating a Wendy's meatless meat burger 🤷‍♂️ in the parking lot. I
 sat on the step leading to the entrance as 2 of my housemates struggled to start
-a car propped up on a hill in the adjacent woods.
+a car propped up on a hill in the adjacent woods 🌲.
 
 Paris Hilton was hanging out - whatever - and I thought to ask her out (in real life
-she's not my type... really. Would not date her if she were interested) and was
-rejected. She was kicking rocks with a few guys I can only describe as nondescript
-and she was dressed like a 5 year-old (a black rainbow unicorn sweater).
+she's not my type... really 💀 Would not date her if she were interested) and was
+rejected 🤕. She was kicking rocks with a few guys I can only describe as nondescript
+and she was dressed like a 5 year-old (a black rainbow unicorn sweater 👧🏼 ).
 
-My 2 housemates eventually pulled up with smiles and a working vehicle. I got in
-(I think) and we left. Earlier I was explaining to Charlie Batch how VR worked in
-a car in Pittsburgh and Mark Zuckerburg jumped in the backseat unannounced with some
-off-brand VR headset. I asked him was it Oculus and didn't reply as if embarrassed.
+My 2 housemates eventually pulled up with smiles and a working vehicle 🚗. I got in
+(I think) and we left. Earlier I was explaining to Charlie Batch 🏈 how VR worked in
+a car in Pittsburgh and Mark Zuckerburg 🤖 jumped in the backseat unannounced with some
+off-brand VR headset 👀 I asked him was it Oculus and he didn't reply as if embarrassed.
 
 # STUFF I LIKE
 
