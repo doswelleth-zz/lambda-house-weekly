@@ -163,3 +163,5 @@ physical universe, via an ATPI.
 
 Have something interesting you would like to share with a group of interesting
 people? Some big idea. Some side-thought. [Reach out](https://twitter.com/lambdadothouse). We'd love to read it!
+
+[Back](https://www.lambda.house/about)
