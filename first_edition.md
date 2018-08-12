@@ -1,6 +1,8 @@
 
-# Lambda House Weekly
+Lambda House Weekly
 #### Et discipulus novit dolor.
+
+---
 
 ### August 12, 2018
 
@@ -8,7 +10,7 @@
 
 # SCHOOL IS HARD
 
-I said to my good friend, Joe, the above title in a text message, and he scoffed, “School is not hard… school is a filter to see who can commit to something and who can’t.”
+I said that to my good friend, Joe, in a text message, and he scoffed, “School is not hard… school is a filter to see who can commit to something and who can’t.”
 
 I initially found the response vanquishing and militant, as if I were applying to _Treadstone_ to help take down Carlos the Jackal.
 
@@ -44,5 +46,7 @@ Shout out to the guy sleeping 5 yards from my gated residence to whose couch pil
 Special Thanks
 
 Lambda School
+<br>
 Amazon 1-day delivery
+<br>
 Archive Collective
