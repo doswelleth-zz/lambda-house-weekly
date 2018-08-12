@@ -1,4 +1,4 @@
-# IOS
+# iOS
 
 LOCAL NOTIFICATIONS
 
