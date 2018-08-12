@@ -27,6 +27,7 @@ Thoughts and prayers to my housemates, most of whom are working on their Sprint 
 # I LOVE SAN FRANCISCO
 
 San Francisco is high on pot and its own self-worth. That may be earned but it doesn’t account for the intoxicating smell of fresh poop next to the comic book store. Or Louis Vuitton in Union Square. And yet, I embrace these colorful wonders over the industrial, silver cigarette smoke of Downtown Pittsburgh.
+
 The weather is nice no matter how chilly the mornings and evenings. I personally sleep well beside a cool breeze. The neighborhood is quiet until it isn’t. The people are appropriately nice and then on their way, and the sun gives them a glow I fantasized only existed in California. Dreams do come true.
 
 Shout out to the guy sleeping 5 yards from my gated residence to whose couch pillow I gifted a former housemate’s hoody. He wasn’t there when I came back outside to drop it off but that shit was gone after class when I furtively peeked out the window. I saw him under the tree later wearing it. We can do better, SF.   
@@ -40,8 +41,6 @@ Shout out to the guy sleeping 5 yards from my gated residence to whose couch pil
 **Dining Area** We will probably combine unused work desks for the kitchen but this was brought up. 3 of us are just big guys. 2 of us could have won The Battle of Bannockburn with William Wallace.
 
 **School Psychologist** PMs are not motivators or comforters (though ours, Jacob M., is the next best thing to a young doctor with an exquisite bedside manner). A proper mental health professional is expensive. And maybe not necessary. But I imagine there are people who would like to talk to someone without feeling like they’re being handled and put back on the horse by an instructor or project manager.
-
-–––
 
 Special Thanks
 
