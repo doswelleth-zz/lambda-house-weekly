@@ -1,6 +1,6 @@
 
 Lambda House Weekly
-#### The Risible Rhetoric of the iOS I Intelligentsia
+The Risible Rhetoric of the iOS I Intelligentsia
 
 ---
 
@@ -55,6 +55,8 @@ Special Thanks
 
 Mission District thrift stores and bodegas
 <br>
+<br>
 Amazon 1-day delivery
 <br>
-Every swell palm tree lining Dolores Street
+<br>
+Every palm tree lining Dolores Street
