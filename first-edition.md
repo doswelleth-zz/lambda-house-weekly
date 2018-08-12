@@ -55,10 +55,10 @@ ___
 
 **Special Thanks**
 
-Mission District thrift stores and bodegas
+Mission District thrift stores and bodegas 🍎
 <br>
 <br>
-Amazon 1-day delivery
+Amazon 1-day delivery 📦
 <br>
 <br>
-Every palm tree lining Dolores Street
+Every palm tree lining Dolores Street 🌴 🌴 🌴
