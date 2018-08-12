@@ -13,3 +13,13 @@ in Lambda School's **Lambda House I** experiment in San Francisco, California.
 Expect jokes, tabloid fodder, career advice, and skin-naked insight into how many
 potatoes these new students can eat, before peripheral circulatory collapse sets
 in with the solanine and kills them.
+
+Enjoy
+
+[STORIES](https://www.lambda.house/stories)
+
+[CODE](https://www.lambda.house/code)
+
+[JOB BOARD](https://www.lambda.house/job-board)
+
+[WEIRD](https://www.lambda.house/weird)
