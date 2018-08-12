@@ -1,6 +1,6 @@
 
 Lambda House Weekly
-#### et scies dolor meus discipulus
+#### The Risible Rhetoric of the iOS I Intelligentsia
 
 ---
 
