@@ -17,7 +17,7 @@ I initially found the response vanquishing and militant, as if I were applying t
 
 His response both angered and accelerated me to persist the next day. I replied, “I can and I will,” with the gusto of a young cadet who doesn’t stop to think that his flag is made out of the same material as the enemy’s. My reply to Joe was at best ambitious.
 
-This is the third week at Lambda School and I could peel the skin from my flesh and feel nothing. I am not certain what is particularly difficult. But I know the routine. Students use the word “rigorous” to distinguish what they relay to people from the pain they are feeling inside. It is disingenuous and broke but it works. For, like, 5 seconds. The student will know pain. Rigor indeed describes our curriculum but it is more than that (see: **Feature Requests**).
+This is the third week at Lambda School and I could peel the skin from my flesh and feel nothing. I am not certain what is particularly difficult. Maybe it's just me. But I know the routine. Students often use the word “rigorous” to distinguish what they relay to people from the pain they are feeling inside. It is disingenuous and broke. And it works. Until you stop asking. Then it's honest and hard, again. I uncertain what it is (see: **Feature Requests**).
 
 The week was especially trying and we haven’t scaled a month with 6 more to go. But it’s Friday. I have a half bottle of Côtes du Rhône and an I don’t care attitude. I am very interested in a walk and talk with a beautiful woman. Maybe visit the bodega on Mission. Or an acupuncturist. Or an exorcist.
 
