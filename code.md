@@ -58,8 +58,6 @@ class LocalNotificationHelper {
 We use [completion handlers](https://grokswift.com/completion-handler-faqs/) to update the status of our request and, in the case of a `requestAuthorization(_:)`, to test the success
 or failure of our request.
 
-Learn more [here](https://developer.apple.com/videos/play/wwdc2016/707/)
-
 # OPEN SOURCE
 
 INTRODUCING `wb_alloc`
