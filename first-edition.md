@@ -19,7 +19,7 @@ His response both angered and accelerated me to persist the next day. I replied,
 
 This is the third week at Lambda School and I could peel the skin from my flesh and feel nothing. I am not certain what is particularly difficult. Students use the word “rigorous” to distinguish what they relay to people from the pain they are feeling inside. It is disingenuous and broke but it works. For, like, 5 seconds. The student will know pain. Rigor indeed describes our curriculum but it is more than that (see: Feature Requests).
 
-The week was especially trying and we haven’t scaled a month with 6 more to go. But it’s Friday. I have a half bottle of Côtes du Rhône and an I don’t care attitude. I am interested in a walk and talk with a beautiful woman. Maybe visit the bodega on Mission. Or an acupuncturist. Or an exorcist.
+The week was especially trying and we haven’t scaled a month with 6 more to go. But it’s Friday. I have a half bottle of Côtes du Rhône and an I don’t care attitude. I am very interested in a walk and talk with a beautiful woman. Maybe visit the bodega on Mission. Or an acupuncturist. Or an exorcist.
 
 Thoughts and prayers to my housemates, most of whom are working on their Sprint Challenge post-submission time. Dinner should be replete with various odors from all the diets with a dash of vitriol about the origins of pedagogy.     
 
