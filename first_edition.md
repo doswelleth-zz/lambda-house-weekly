@@ -4,7 +4,7 @@ Lambda House Weekly
 
 ---
 
-### August 12, 2018
+### august 12, 2018
 
 #### TOP STORY
 
