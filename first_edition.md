@@ -1,10 +1,10 @@
 
 Lambda House Weekly
-#### et discipulus novit dolor.
+#### et discipulus novit dolor
 
 ---
 
-### august 12, 2018
+##### August 12, 2018
 
 #### TOP STORY
 
