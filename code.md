@@ -10,7 +10,7 @@ Core Data is a programmatic interface to persistently store user data on a devic
 The purpose of Core Data is to allow a user to save the content they create to their
 device for later use, whether or not they are connected to the Internet.
 
-Core Data is a fascinating architecture with a `NSPersistentContainer` which
+Core Data is a fascinating architecture with an `NSPersistentContainer` which
 "simplifies the creation and management of the Core Data stack by handling the creation of the managed object model (NSManagedObjectModel), persistent store coordinator (`NSPersistentStoreCoordinator`), and the managed object context (`NSManagedObjectContext`)."
 
 Our interface can be written in code but it is preferred that we use Apple's Core Data
@@ -45,8 +45,7 @@ class CoreDataStack {
 
 ```
 
-Now, let's create a computed property to calculate and return the container's
-[viewContext](https://developer.apple.com/documentation/coredata/nspersistentcontainer/1640622-viewcontext, the interface associated with the main queue:
+Now, let's create a computed property to calculate and return the container's [viewContext](https://developer.apple.com/documentation/coredata/nspersistentcontainer/1640622-viewcontext), the interface associated with the main queue:
 
 ```
 // MARK: - Single context instance for container
@@ -56,7 +55,7 @@ Now, let's create a computed property to calculate and return the container's
 
 ```
 
-`viewContext` is associated with the main queue (or thread) and "is created automatically as part of the initialization of the persistent container."
+`viewContext` is "created automatically as part of the initialization of the persistent container."
 
 Cool
 
