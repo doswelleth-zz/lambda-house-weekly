@@ -1,3 +1,99 @@
+##### August 19, 2018
+
+# iOS
+
+CORE DATA
+
+#### David Doswell
+
+Core Data is a programmatic interface to persistently store user data on a device.
+The purpose of Core Data is to allow a user to save the content they create to their
+device for later use, whether or not they are connected to the Internet.
+
+Core Data is a fascinating architecture with a `NSPersistentContainer` which
+"simplifies the creation and management of the Core Data stack by handling the creation of the managed object model (NSManagedObjectModel), persistent store coordinator (`NSPersistentStoreCoordinator`), and the managed object context (`NSManagedObjectContext`)."
+
+Our interface can be written in code but it is preferred that we use Apple's Core Data
+"Data Model" file option in Xcode to create our model for our persistent container.
+
+This will allow us to write less code 🎉 and leverage our efforts into making the perfect
+**Core Data Stack**. That we will do in code below. Out Core Data Stack will be a [singleton](https://en.wikipedia.org/wiki/Singleton_pattern) which will further allow us to
+use it throughout our application as a shared instance on the main context to our
+`NSManagedObjectContext`.
+
+```
+import Foundation
+import CoreData
+
+class CoreDataStack {
+
+    // MARK: - Single instance for app
+
+    static let shared = CoreDataStack()
+
+    lazy var container: NSPersistentContainer = {
+
+        // MARK: Load persistent stores
+        let container = NSPersistentContainer(name: "MyProjectName")
+        container.loadPersistentStores { (_, error) in
+            if let error = error {
+                fatalError("Error: \(error)")
+            }
+        }
+        return container
+    }()
+
+```
+
+Now, let's create a computed property to calculate and return the container's
+[viewContext](https://developer.apple.com/documentation/coredata/nspersistentcontainer/1640622-viewcontext, the interface associated with the main queue:
+
+```
+// MARK: - Single context instance for container
+   var mainContext: NSManagedObjectContext {
+       return container.viewContext
+   }
+
+```
+
+`viewContext` is associated with the main queue (or thread) and "is created automatically as part of the initialization of the persistent container."
+
+Cool
+
+```
+
+import Foundation
+import CoreData
+
+class CoreDataStack {
+
+    // MARK: - Single instance for app
+
+    static let shared = CoreDataStack()
+
+    lazy var container: NSPersistentContainer = {
+
+        // MARK: Load persistent stores
+        let container = NSPersistentContainer(name: "MyProjectName")
+        container.loadPersistentStores { (_, error) in
+            if let error = error {
+                fatalError("Error: \(error)")
+            }
+        }
+        return container
+    }()
+
+    // MARK: - Single context instance for container
+    var mainContext: NSManagedObjectContext {
+        return container.viewContext
+    }
+
+}
+
+```
+
+---
+
 ##### August 12, 2018
 
 # iOS
