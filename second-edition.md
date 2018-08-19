@@ -87,6 +87,12 @@ Income No Kids) couple, planning a family, deciding San Francisco was too expens
 to raise a child, and saying 'Fuck that, we out, baby!' without canceling their subscription
 to Country Sampler.
 
+**Plumber or Snake Tool** One of our housemates has tiny silver fish in his private bathroom. But
+that's not the weird bit. I've yet to mention it but one of our housemates has a PRIVATE BATHROOM.
+It's tucked away facing the room, nondescript and irrelevant until you notice it. Then, bathroom!
+And, yeah, there are silver fish that play dead in the tub but are very much alive. And to be
+clear, because this is important and I don't think I mentioned it: my housemate has a private bathroom. I think there's a shower and a place to read in there.
+
 **Special Thanks**
 
 Dandelion Chocolate 🍫
