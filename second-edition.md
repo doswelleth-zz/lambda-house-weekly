@@ -19,7 +19,7 @@ This week's Sprint Challenge should be no different than last week's in that it
 was a _Sprint Challenge_. Every week at Lambda School we are (somewhat) evaluated
 on our weekly progress to assess our readiness to move on to the next week. I was...
 not ready. To be honest, I am beginning to feel a little overwhelmed. The slanted
-issue I am facing is my shortcomings have nothing to do with the lessons taught.
+issue I am facing is my shortcomings have nothing to do with the lessons being taught.
 
 The instructor is exceptional.
 
@@ -56,17 +56,17 @@ also be stuffed with fried British staples with little regard for their choleste
 the people sleeping downstairs.
 
 The Monero Meetup one housemate attended was profitable. Heaps of good information from
-one visible community Schelling point, known on Twitter as Fluffy Pony. Having recently
+one visible community Schelling point, known on Twitter as [Fluffy Pony](https://twitter.com/fluffypony). Having recently
 attended a conference in Panama, it is not surprising to hear many wealthy individuals
 define crypto, as Pony related, as "the new offshore." Seeing different aspects of San
 Francisco is interesting. So many little neighborhoods doing so many different things.
-But they all unify around a common good: unlike the technical knowledge (and wealth) of
-crypto, the smell of poop and pot is evenly distributed.
+But despite the gross display of wealth inequality, they all unify around a common good:
+unlike the technical knowledge of crypto, the smell of poop and pot is evenly distributed.
 
 Let's be clear: Lambda House students do not own their House. We are fortunate to be here.
 And we are not lost on that fact. However, it is always... an adaptive segue from living
 on your own (or even with other people) to having your landlord show your living quarters
-to whom you would call strangers without warning. It's like living in a menagerie except
+to whom you would consider strangers, without warning. It's like living in a menagerie except
 no one feeds you or washes you up, which is a total ripoff.
 
 Speaking of The Group, the weekend get-togethers continue. Lambda House kids are squarely
