@@ -2,7 +2,7 @@
 
 # iOS
 
-CORE DATA
+CORE DATA SINGLETON PATTERN
 
 #### David Doswell
 
