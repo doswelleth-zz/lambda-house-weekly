@@ -61,7 +61,7 @@ attended a conference in Panama, it is not surprising to hear many wealthy indiv
 define crypto, as Pony related, as "the new offshore." Seeing different aspects of San
 Francisco is interesting. So many little neighborhoods doing so many different things.
 But despite the gross display of wealth inequality, they all unify around a common good:
-unlike the technical knowledge of crypto, the smell of poop and pot is evenly distributed.
+unlike crypto or affordable housing, the future of poop and pot are evenly distributed.
 
 Let's be clear: Lambda House students do not own their House. We are fortunate to be here.
 And we are not lost on that fact. However, it is always... an adaptive segue from living
@@ -72,8 +72,7 @@ no one feeds you or washes you up, which is a total ripoff.
 Speaking of The Group, the weekend get-togethers continue. Lambda House kids are squarely
 uninvited though we would probably not be turned away were we to crash the party (as I had
 a few weeks ago). But the kids are starting to feel it. Sure, we make our own fun, on and off
-premise, but we are pariahs. The Group is distant and civil as if we were terminally ill.
-Group spawn, A. and S., however, who co-exist with us, are solid. And to be honest so are
+premise, but we are pariahs. The Group is distant and civil as if we were terminally ill and contagious. Group spawn, A. and S., however, who co-exist with us, are solid. And to be honest so are
 the others. Plainly, there is no need for The Group to invest any quality time into us, as
 our days are numbered (more on that, later).
 
